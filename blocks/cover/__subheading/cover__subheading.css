@@ -1,7 +1,6 @@
 .cover__subheading {
   margin: 0;
   color: #FFFFFF;
-  font-family: 'Inter';
   font-style: normal;
   font-weight: 400;
   font-size: 18px;
@@ -10,7 +9,7 @@
   max-width: 360px;
   z-index: 1;
 }
-@media screen and(min-width: 320px) and (max-width: 767px) {
+@media screen and (min-width: 320px) and (max-width: 767px) {
   .cover__subheading {
     max-width: 288px;
     font-size: 14px;
