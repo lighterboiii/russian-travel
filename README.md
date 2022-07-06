@@ -18,4 +18,4 @@ ____
 + [Flexbox](https://habr.com/ru/post/467049/)
 + [Grid-layout](https://habr.com/ru/post/656245/)
 ____
-## Ссылка на макет в [Figma](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-%2B-mobile?node-id=28503%3A0)
+## [Ссылка на github pages](https://lighterboiii.github.io/russian-travel/)
